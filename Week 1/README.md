@@ -1,4 +1,4 @@
-# Week 1 (25 May - 31 May): Python Primer + Basics of Scientific Computing
+# Week 1 (25 May - 31 May): HTML and the web + Repo scaffold and the hello window
 
 ## Goals for the week
 
@@ -35,19 +35,13 @@ If you want to revise some other concepts, this is a good video but long, should
 
 ## Core Concepts
 
-### NumPy
+### How the Web Works
 
-NumPy is a Python library used for fast numerical and mathematical operations. It provides support for arrays, matrices, linear algebra, and random number generation.
+Before learning to write HTML code, start by understanding the basics of how browsers, servers, URLs, and webpages work.
 
-The [NumPy Official Documentation](https://numpy.org/doc/stable/) is one of the best starting points (the documentations for these three are the go-to places for us in this course).
 
-If you find the docs to be a bit too daunting, here are some other resources you can use to learn NumPy from:
 
-- [Bro Code's tutorial on YouTube](https://youtu.be/VXU4LSAQDSc?si=I5O15S9aURCigrq8)
-- [Slides for NumPy]()
-- [NumPy Jupyter Notebook tutorials](https://github.com/adityasanapala/SoC-RL/tree/main/Week%201/2-NumPy)
-
-After going through the resources, solve the attached [notebook](https://github.com/adityasanapala/SoC-RL/blob/main/Week%201/2-NumPy/4-NumPy-Exercises.ipynb) to get an idea of what we will be working with.
+Once you understand how the web works behind the scenes, learning HTML and other web technologies becomes much easier.
 
 ### Pandas
 
