@@ -44,8 +44,8 @@ Every weekly module is designed to provide a balanced learning experience and wi
 - **Coding & Practice Tasks**  
   Hands-on exercises aimed at strengthening your understanding through implementation and problem-solving.
 
-- **Weekly Contest / Challenge**  
-  A contest or timed challenge at the end of the week to assess your progress and apply everything learned throughout the module.
+- **Weekly Component**  
+  Every week you will be building the code editor - one component at a time.
 
 ### Submission Guidelines
 
@@ -66,7 +66,7 @@ We begin with foundational work by revisiting core coding principles through the
 Once this is complete, we will move on to the theory behind some core data structures, followed by a dedicated session on competitive programming contests.
 
 👉 **Access the Week 1 tasks and instructions here:**
-[Week 1/README.md]()
+[Week 1/README.md](https://github.com/adityasanapala/SoC-editor/tree/main/Week%201)
 
 ---
 
