@@ -61,9 +61,6 @@ All submissions must follow the instructions and directory structure specified i
 
 ## Week 1
 
-We begin with foundational work by revisiting core coding principles through the implementation of a `Vec3` class, alongside developing an understanding of the underlying vector mathematics. This will also serve as a revision of essential programming concepts.
-
-Once this is complete, we will move on to the theory behind some core data structures, followed by a dedicated session on competitive programming contests.
 
 👉 **Access the Week 1 tasks and instructions here:**
 [Week 1/README.md](https://github.com/adityasanapala/SoC-editor/tree/main/Week%201)
