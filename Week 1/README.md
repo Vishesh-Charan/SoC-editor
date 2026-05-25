@@ -2,34 +2,18 @@
 
 ## Goals for the week
 
-- First, get a hang of Python and Jupyter Notebooks by doing the warm-up task.
-- Learn about NumPy, Pandas, and Matplotlib.
-- Solve some basic problems on these topics.
+- Learn how the web works and build foundational HTML skills using tags, structure, and semantic elements.
+- Practice web development by creating a simple profile page and using MDN/resources for guidance.
+- Set up the app repository with Git, a README, and project scaffolding.
+- Build a basic Electron desktop app with a working “Hello Editor” window using `main.js` and `index.html`.
 
-The idea is to learn how these computing modules help us with implementing ML models and performing RL tasks.
+The idea is to build a strong foundation in web and desktop app development by learning HTML, and creating a basic Electron application as the first step toward the editor.
 
 ---
 
 ## Warm-up Task
 
-The warm-up consists of revising/learning Python and getting familiar with the [Jupyter Notebook](https://jupyter.org/) environment. Jupyter is an open-source web-based interactive computing platform that allows users to create and share documents containing live code, equations, visualizations, and explanatory text.
-
-Here are some good videos that explain how to use the Jupyter environment:
-
-- [Corey Schafer's Guide](https://youtu.be/HW29067qVWk?si=UFaOC6-Kj0csL9vG)
-- [Rob Mulla's Guide](https://youtu.be/5pf0_bpNbkw?si=5j1x0BH4ceDFCnBo)
-
-If you don't want to bother with the setup involved in Jupyter, you could also use [Google Colab](https://colab.research.google.com/). It has many more tools available (including AI features), but I would recommend against using the AI tools for now.
-
-Here's a tutorial on Google Colab (the video uses Tensorflow for the demo, it is not needed for the course at the moment):
-
-- [Tensorflow on Colab](https://youtu.be/inN8seMm7UI?si=n0PEguW0w9I8qESd)
-
-There’s a Python primer notebook in [this folder](https://github.com/adityasanapala/SoC-RL/tree/main/Week%201/1-Python-Primer). You can use it to familiarize yourself with the environment and revise some of the core concepts of Python programming. There is also an exercise notebook in the same folder, which you are expected to solve and submit.
-
-If you want to revise some other concepts, this is a good video but long, should keep you occupied for a bit.
-
-- [Mosh Hamedani's Guide to Python](https://youtu.be/_uQrJ0TkZlc?si=gfn-7_-chO-J60hD)
+No warm-up task this week (since its the first week)!
 
 ---
 
@@ -37,13 +21,34 @@ If you want to revise some other concepts, this is a good video but long, should
 
 ### How the Web Works
 
-Before learning to write HTML code, start by understanding the basics of how browsers, servers, URLs, and webpages work.
+Here's the condensed version in the same format:
 
+---
 
+## How the Web Works
+
+The **World Wide Web** is a system of interlinked documents accessible over the internet. When you visit a website, your browser (the **client**) sends a request to a remote computer (the **server**), which responds with files your browser then displays.
+
+The [MDN Web Docs](https://developer.mozilla.org/) are the gold standard reference for everything web-related, with thorough documentation and examples for all three core technologies.
+
+If you prefer more guided learning, here are some resources:
+- [Traversy Media's Web Development Crash Course](https://youtu.be/UB1O30fR-EE)
+- [The Odin Project](https://www.theodinproject.com/) — a free, structured full-stack curriculum
+- [web.dev by Google](https://web.dev/) — guides on how browsers work, performance, and modern APIs
+
+After going through the resources, try building a simple webpage that uses all three layers — a styled card with a button that changes content when clicked — to get a feel for how HTML, CSS, and JavaScript interact in practice.
+
+---
+
+**HTML** defines the *structure* — what's on the page (headings, paragraphs, links, buttons).
+**CSS** defines the *presentation* — how it looks (colours, fonts, layout, spacing).
+**JavaScript** defines the *behaviour* — what happens when the user interacts (clicks, inputs, animations).
+
+The browser stitches them together into the **DOM** (Document Object Model), a live tree of elements that JavaScript can read and modify in real time — without reloading the page.
 
 Once you understand how the web works behind the scenes, learning HTML and other web technologies becomes much easier.
 
-### Pandas
+<!---### Pandas
 
 Pandas is a Python library used for data analysis and manipulation. It helps work with tables, CSV files, filtering, grouping, and cleaning data efficiently.
 
@@ -76,12 +81,12 @@ After going through the resources, solve the attached [notebook](https://github.
 
 I'd love it if you also learn git for working with projects (it's very useful for version control and team integration).
 
-This is a good lecture on git for beginners: [CS50 Lecture on Git](https://youtu.be/NcoBAfJ6l2Q?si=FRLMmKKwj01E8ePw).
+This is a good lecture on git for beginners: [CS50 Lecture on Git](https://youtu.be/NcoBAfJ6l2Q?si=FRLMmKKwj01E8ePw).--->
 
 ---
 
-## Practice Notebooks to Submit
+## Practice Problems to Submit
 
-4 Notebooks - Python, NumPy, Pandas, Matplotlib.
+
 
 
