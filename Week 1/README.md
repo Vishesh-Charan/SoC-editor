@@ -21,12 +21,6 @@ No warm-up task this week (since its the first week)!
 
 ### How the Web Works
 
-Here's the condensed version in the same format:
-
----
-
-## How the Web Works
-
 The **World Wide Web** is a system of interlinked documents accessible over the internet. When you visit a website, your browser (the **client**) sends a request to a remote computer (the **server**), which responds with files your browser then displays.
 
 The [MDN Web Docs](https://developer.mozilla.org/) are the gold standard reference for everything web-related, with thorough documentation and examples for all three core technologies.
