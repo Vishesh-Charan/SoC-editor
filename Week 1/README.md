@@ -81,6 +81,77 @@ This is a good lecture on git for beginners: [CS50 Lecture on Git](https://youtu
 
 ## Practice Problems to Submit
 
+Here are 5 beginner-friendly HTML practice problems, ordered from easiest to slightly more challenging:
+
+### 1. Create a Simple Webpage
+
+Build an HTML page that contains:
+
+* A main heading with your name
+* A paragraph introducing yourself
+* A horizontal line
+* A second paragraph describing your favorite hobby
+
+
+---
+
+### 2. Create a Favorite Things List
+
+Build a webpage that displays:
+
+* A heading: "My Favorite Things"
+* An unordered list of 5 favorite foods
+* An ordered list of 5 favorite movies or books
+
+---
+
+### 3. Create a Profile Card
+
+Design a simple profile section containing:
+
+* A profile picture
+* Your name as a heading
+* A short bio
+* A link to your favorite website
+
+---
+
+### 4. Create a Weekly Timetable
+
+Build a table showing:
+
+* Days of the week
+* Subject or activity for each day
+* At least 5 rows
+
+
+Example:
+
+| Day     | Activity |
+| ------- | -------- |
+| Monday  | Math     |
+| Tuesday | Science  |
+
+---
+
+### 5. Create a Contact Form
+
+Build a form with:
+
+* Name field
+* Email field
+* Password field
+* A dropdown for selecting a country
+* A submit button
+
+
+---
+
+### 6. Create a personal webpage
+
+Create a simple personal webpage with 3 tabs - an intro page, an achievements page, and a contacts page. Also, try hosting it on GitHub.
+
+
 
 
 
