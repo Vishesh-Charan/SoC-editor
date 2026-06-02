@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Favorite Things</title>
+        <style>
+            body{
+                font-family: Arial, sans-serif;
+                background: #f4f7ff;
+                margin: 0;
+                padding: 40px;
+            }
+
+            h1{
+                text-align: center;
+                color: #3b3b98;
+                margin-bottom: 40px;
+            }
+
+            .container{
+                display: flex;
+                justify-content: center;
+                gap: 40px;
+                flex-wrap: wrap;
+            }
+
+            .card{
+                background: white;
+                padding: 20px 30px;
+                border-radius: 15px;
+                box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+                width: 280px;
+            }
+
+            .card h3{
+                text-align: center;
+                color: #6c5ce7;
+                margin-bottom: 15px;
+            }
+
+            ul, ol{
+                line-height: 1.8;
+            }
+
+            li{
+                color: #444;
+            }
+
+            .food{
+                border-top: 5px solid #00b894;
+            }
+
+            .books{
+                border-top: 5px solid #fd79a8;
+            }
+        </style>
+    </head>
+    <body>
+    <h1>Things I Like</h1>
+    <div class="container">
+        <div class="card food">
+            <h3>Food</h3>
+            <ul>
+                <li>Fried Rice</li>
+                <li>Noodles</li>
+                <li>Paratha</li>
+                <li>Sandwich</li>
+                <li>Franky</li>
+            </ul>
+        </div>
+        <div class="card books">
+            <h3>Books or Movies</h3>
+            <ol>
+                <li>A Good Girl's Guide to Murder</li>
+                <li>Avengers: Endgame</li>
+                <li>Marty Supreme</li>
+                <li>Train to Pakistan</li>
+                <li>A Silent Patient</li>
+            </ol>
+        </div>
+    </div>
+</body>
+</html>
